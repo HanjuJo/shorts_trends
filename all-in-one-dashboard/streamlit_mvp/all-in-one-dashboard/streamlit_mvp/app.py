@@ -12,7 +12,6 @@ if menu == "유튜브 분석":
     youtube_url = st.text_input("유튜브 채널 또는 영상 URL 입력")
     if st.button("분석 시작"):
         st.success("유튜브 데이터 분석 중...")
-        # 여기에 API 호출 로직 추가
 
 elif menu == "SNS 분석":
     st.subheader("📱 SNS 트렌드 분석")

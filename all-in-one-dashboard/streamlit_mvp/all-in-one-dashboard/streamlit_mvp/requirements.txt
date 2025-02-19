@@ -1,0 +1,5 @@
+streamlit
+google-auth
+googleapiclient
+pandas
+requests
